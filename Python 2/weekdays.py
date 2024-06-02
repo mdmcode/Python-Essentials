@@ -1,7 +1,6 @@
 class WeekDayError(Exception):
     pass
 
-
 class Weeker:
     # Crea la lista de los días de la semana
     __names = ['Lun', 'Mar', 'Mie', 'Jue', 'Vie', 'Sab', 'Dom']
